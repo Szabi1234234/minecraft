@@ -64,8 +64,15 @@ table {
     background-image: url(img/mc_movie.png);
 }
 
-article {
+.reg {
     margin: 4px auto auto auto;
     width: 700px;
     padding: 10px;
 }
+.ad {
+    width: 300px; 
+    
+    padding: 15px;
+    margin-left: 20px;
+}
+
