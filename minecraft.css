@@ -1,6 +1,9 @@
 body {
-    background-color: green;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+    background-position: center;
     margin: 0;
     font-family: 'Minecraft', sans-serif;
 }
@@ -76,3 +79,15 @@ table {
     margin-left: 20px;
 }
 
+article{
+    padding: 35px;
+}
+
+nav{
+    padding: 35px;
+}
+
+.idk{
+    margin-left: auto;
+    margin-right: auto;
+}
