@@ -19,6 +19,7 @@ header {
     font-family: 'Minecraft', sans-serif;
     margin: 20px;
     color: black;
+    border-radius: 20px;
     
 }
 
@@ -79,6 +80,7 @@ table {
     width: 700px;
     padding: 10px;
     background-color: rgb(194, 194, 194, 0.8);
+    border-radius: 20px;
 }
 .ad {
     width: 300px; 
@@ -123,6 +125,7 @@ a{
     margin: 20px;
     border-radius: 20px;
     background-color: rgb(194, 194, 194, 0.8);
+    
 }
 label{
     cursor: url('img/kard_kurzor.png'),auto;
