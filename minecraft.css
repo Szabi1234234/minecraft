@@ -6,7 +6,7 @@ body {
     background-position: center;
     margin: 0;
     font-family: 'Minecraft', sans-serif;
-    cursor: url('img/cursor2.png'),auto;
+    cursor: url('img/kard_kurzor.png'),auto;
 
 }
 
@@ -42,6 +42,7 @@ textarea {
   font-size: 16px;
   resize: none;
   font-family: 'Minecraft', sans-serif;
+  cursor: url('img/kard_kurzor.png'),auto;
 }
 input {
     background-color: gray;
@@ -107,7 +108,9 @@ nav{
 }
 
 a:any-link{
-    text-decoration: none;}
+    text-decoration: none;
+    cursor: url('img/kard_kurzor.png'),auto;
+}
 
 a:hover{
     color: blue;
@@ -121,3 +124,16 @@ a{
     border-radius: 20px;
     background-color: rgb(194, 194, 194, 0.8);
 }
+label{
+    cursor: url('img/kard_kurzor.png'),auto;
+}
+
+input{
+    cursor: url('img/kard_kurzor.png'),auto;
+}
+
+select{
+    cursor: url('img/kard_kurzor.png'),auto;
+}
+
+form{cursor: url('img/kard_kurzor.png'),auto;}
