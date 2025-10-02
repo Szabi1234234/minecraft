@@ -15,6 +15,9 @@ header {
     letter-spacing: 10px;
     background-image: url(img/mc_bg.png);
     font-family: 'Minecraft', sans-serif;
+    margin: 20px;
+    color: black;
+    
 }
 
 nav {
@@ -23,6 +26,7 @@ nav {
     border-radius: 10px;
     text-size-adjust: 200%;
     font-family: 'Minecraft', sans-serif;
+    margin: 20px;
 }
 
 textarea {
@@ -71,6 +75,7 @@ table {
     margin: 4px auto auto auto;
     width: 700px;
     padding: 10px;
+    background-color: rgb(194, 194, 194, 0.8);
 }
 .ad {
     width: 300px; 
@@ -85,9 +90,32 @@ article{
 
 nav{
     padding: 35px;
+    border-radius: 20px;
 }
 
 .idk{
     margin-left: auto;
     margin-right: auto;
+}
+
+.mcmovie{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+a:any-link{
+    text-decoration: none;}
+
+a:hover{
+    color: blue;
+}
+
+a{
+    color: whitesmoke;
+}
+.atalstszok{
+    margin: 20px;
+    border-radius: 20px;
+    background-color: rgb(194, 194, 194, 0.8);
 }
