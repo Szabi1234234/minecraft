@@ -6,6 +6,8 @@ body {
     background-position: center;
     margin: 0;
     font-family: 'Minecraft', sans-serif;
+    cursor: url('img/cursor2.png'),auto;
+
 }
 
 header {
